@@ -10120,6 +10120,11 @@ text-table@0.2.0, text-table@^0.2.0:
   resolved "https://registry.yarnpkg.com/text-table/-/text-table-0.2.0.tgz#7f5ee823ae805207c00af2df4a84ec3fcfa570b4"
   integrity sha1-f17oI66AUgfACvLfSoTsP8+lcLQ=
 
+thau-js@^0.1.8:
+  version "0.1.8"
+  resolved "https://registry.yarnpkg.com/thau-js/-/thau-js-0.1.8.tgz#88e05197784a7783fd709553279b52876b7ba43a"
+  integrity sha512-qefUdiBval9eC4THVVxw9yow3wc2/TuC4toEGUy7B0sx1erXWHZqcN0r5aUuGo8xwuma1Cq9Sl9mSdGSZ2TJyQ==
+
 thau-react@^0.1.8:
   version "0.1.8"
   resolved "https://registry.yarnpkg.com/thau-react/-/thau-react-0.1.8.tgz#98162a7486d8889a0f5e1f91940a6b2e51b7a5a9"
